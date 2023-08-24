@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: a2ddfc88720ef49cea5f07695b9c2a3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -828178296625441626
+    second: groundTilemap_0
+  - first:
+      213: 7484134265458495842
+    second: groundTilemap_1
+  - first:
+      213: 2857315578256299841
+    second: groundTilemap_2
+  - first:
+      213: 2106834080345932982
+    second: groundTilemap_3
+  - first:
+      213: 3904712156103320106
+    second: groundTilemap_4
+  - first:
+      213: -6702771308081376087
+    second: groundTilemap_5
+  - first:
+      213: 519808284013294842
+    second: groundTilemap_6
+  - first:
+      213: -7505915104682604124
+    second: groundTilemap_7
+  - first:
+      213: 6582055590130525339
+    second: groundTilemap_8
+  - first:
+      213: 5392664726813005528
+    second: groundTilemap_9
+  - first:
+      213: 6098078961592358812
+    second: groundTilemap_10
+  - first:
+      213: -5288399651351119484
+    second: groundTilemap_11
+  - first:
+      213: -3181477215846370554
+    second: groundTilemap_12
+  - first:
+      213: -987814436948612442
+    second: groundTilemap_13
+  - first:
+      213: -7399195493720943159
+    second: groundTilemap_14
+  - first:
+      213: -1742869245724112216
+    second: groundTilemap_15
+  - first:
+      213: -4020984832518061527
+    second: groundTilemap_16
+  - first:
+      213: -996834096616879677
+    second: groundTilemap_17
+  - first:
+      213: -4440846894015434645
+    second: groundTilemap_18
+  - first:
+      213: 6426400336030997549
+    second: groundTilemap_19
+  - first:
+      213: 4222744451804560990
+    second: groundTilemap_20
+  - first:
+      213: 5370208533447270795
+    second: groundTilemap_21
+  - first:
+      213: 4195495322285456888
+    second: groundTilemap_22
+  - first:
+      213: 7941927365196499236
+    second: groundTilemap_23
+  - first:
+      213: -6087691900164465553
+    second: groundTilemap_24
+  - first:
+      213: 1635648022924533842
+    second: groundTilemap_25
+  - first:
+      213: 9138995068366483547
+    second: groundTilemap_26
+  - first:
+      213: -7290054984735245888
+    second: groundTilemap_27
+  - first:
+      213: -2815715100385743593
+    second: groundTilemap_28
+  - first:
+      213: -7151861127111997499
+    second: groundTilemap_29
+  - first:
+      213: -6632712608266958119
+    second: groundTilemap_30
+  - first:
+      213: -4654999617267770864
+    second: groundTilemap_31
+  - first:
+      213: 6579923364936285353
+    second: groundTilemap_32
+  - first:
+      213: 1111404355901829433
+    second: groundTilemap_33
+  - first:
+      213: 2792922841629149172
+    second: groundTilemap_34
+  - first:
+      213: 8553067801106886380
+    second: groundTilemap_35
+  - first:
+      213: 4490984048275090271
+    second: groundTilemap_36
+  - first:
+      213: -5476868452740441834
+    second: groundTilemap_37
+  - first:
+      213: -6758221215674577093
+    second: groundTilemap_0
+  - first:
+      213: -1691955196234586292
+    second: groundTilemap_1
+  - first:
+      213: -7220854292580606755
+    second: groundTilemap_2
+  - first:
+      213: 5890267272262280900
+    second: groundTilemap_3
+  - first:
+      213: -3405853398568864372
+    second: groundTilemap_4
+  - first:
+      213: -4827147315274503668
+    second: groundTilemap_5
+  - first:
+      213: 4846529952773743088
+    second: groundTilemap_6
+  - first:
+      213: 5811246714815837891
+    second: groundTilemap_7
+  - first:
+      213: 165395106039187500
+    second: groundTilemap_8
+  - first:
+      213: -2005499031186529960
+    second: groundTilemap_9
+  - first:
+      213: 7234213960309433946
+    second: groundTilemap_10
+  - first:
+      213: 6825058470247967921
+    second: groundTilemap_11
+  - first:
+      213: 1757808533755626159
+    second: groundTilemap_12
+  - first:
+      213: -3624356920048506518
+    second: groundTilemap_13
+  - first:
+      213: 4566658213091022122
+    second: groundTilemap_14
+  - first:
+      213: -2170501708617813067
+    second: groundTilemap_15
+  - first:
+      213: -8778842436240319208
+    second: groundTilemap_16
+  - first:
+      213: -3399354551075937638
+    second: groundTilemap_17
+  - first:
+      213: -789856305681362
+    second: groundTilemap_18
+  - first:
+      213: -6303087499484125776
+    second: groundTilemap_19
+  - first:
+      213: 838738671779128935
+    second: groundTilemap_20
+  - first:
+      213: 1102735467264110753
+    second: groundTilemap_21
+  - first:
+      213: 556059308657713628
+    second: groundTilemap_22
+  - first:
+      213: 2381475586574095036
+    second: groundTilemap_23
+  - first:
+      213: 6958723107700322187
+    second: groundTilemap_24
+  - first:
+      213: 3171496716918581283
+    second: groundTilemap_25
+  - first:
+      213: 4265111752152793402
+    second: groundTilemap_26
+  - first:
+      213: 4352570834660630435
+    second: groundTilemap_27
+  - first:
+      213: -1468707505952090556
+    second: groundTilemap_28
+  - first:
+      213: -6305840632715662804
+    second: groundTilemap_29
+  - first:
+      213: 1847440493517272671
+    second: groundTilemap_30
+  - first:
+      213: 8449804849066915094
+    second: groundTilemap_31
+  - first:
+      213: 4667761633421944640
+    second: groundTilemap_32
+  - first:
+      213: 2218452901655849220
+    second: groundTilemap_33
+  - first:
+      213: 4211234065754962106
+    second: groundTilemap_34
+  - first:
+      213: 5215375705589865427
+    second: groundTilemap_35
+  - first:
+      213: -8674335330471794949
+    second: groundTilemap_36
+  - first:
+      213: 5572445067525764545
+    second: groundTilemap_37
+  - first:
+      213: 2932149692394037961
+    second: groundTilemap_38
+  - first:
+      213: -5488283910478224351
+    second: groundTilemap_39
+  - first:
+      213: 4524883989461559043
+    second: groundTilemap_40
+  - first:
+      213: 4132234239727613453
+    second: groundTilemap_41
+  - first:
+      213: 8669591510332592758
+    second: groundTilemap_42
+  - first:
+      213: -7762868162167819116
+    second: groundTilemap_43
+  - first:
+      213: -4718614875497755495
+    second: groundTilemap_44
+  - first:
+      213: 2158340104284770268
+    second: groundTilemap_45
+  - first:
+      213: 7269964150313735860
+    second: groundTilemap_46
+  - first:
+      213: 8369561437110798520
+    second: groundTilemap_47
+  - first:
+      213: -6266349497413771259
+    second: groundTilemap_48
+  - first:
+      213: 443055554254391520
+    second: groundTilemap_49
+  - first:
+      213: 5555541841962192029
+    second: groundTilemap_50
+  - first:
+      213: 6854586602287686193
+    second: groundTilemap_51
+  - first:
+      213: -2765787679361833822
+    second: groundTilemap_52
+  - first:
+      213: 1445337550618707648
+    second: groundTilemap_53
+  - first:
+      213: 7943536464926353620
+    second: groundTilemap_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: groundTilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f45366c99f532a0800000000000000
+      internalID: -6758221215674577093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47af80a6b7f488e0800000000000000
+      internalID: -1691955196234586292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd0e3574f5acb90800000000000000
+      internalID: -7220854292580606755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66d4b40ee6eb150800000000000000
+      internalID: 5890267272262280900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85fe35016afbb0d0800000000000000
+      internalID: -3405853398568864372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a25929717820db0800000000000000
+      internalID: -4827147315274503668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ae546055524340800000000000000
+      internalID: 4846529952773743088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f0ca0912b5a050800000000000000
+      internalID: 5811246714815837891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28cd0ff8f99b4200800000000000000
+      internalID: 165395106039187500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851acb8b1490b24e0800000000000000
+      internalID: -2005499031186529960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566a65b447156460800000000000000
+      internalID: 7234213960309433946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca66a948a77be50800000000000000
+      internalID: 6825058470247967921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa287a55c8df46810800000000000000
+      internalID: 1757808533755626159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a7497592b3bdc0800000000000000
+      internalID: -3624356920048506518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2519e91377006f30800000000000000
+      internalID: 4566658213091022122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f4712234d0e1e0800000000000000
+      internalID: -2170501708617813067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d55c801594b2680800000000000000
+      internalID: -8778842436240319208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e28ddb0113d0d0800000000000000
+      internalID: -3399354551075937638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce97f31a13dfff0800000000000000
+      internalID: -789856305681362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b52b0d705fe688a0800000000000000
+      internalID: -6303087499484125776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76627cec06cc3ab00800000000000000
+      internalID: 838738671779128935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0708f9014bd4f00800000000000000
+      internalID: 1102735467264110753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a79ebef487b700800000000000000
+      internalID: 556059308657713628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2930bad63bc0120800000000000000
+      internalID: 2381475586574095036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa7cc2cc9529060800000000000000
+      internalID: 6958723107700322187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ef32f57b630c20800000000000000
+      internalID: 3171496716918581283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3149628a88b03b30800000000000000
+      internalID: 4265111752152793402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af1cabfc10776c30800000000000000
+      internalID: 4352570834660630435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44696cc0e4a1e9be0800000000000000
+      internalID: -1468707505952090556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a22c4ba572d78a0800000000000000
+      internalID: -6305840632715662804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f4c7375d63a910800000000000000
+      internalID: 1847440493517272671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b102cdbcb34570800000000000000
+      internalID: 8449804849066915094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ef48897837c040800000000000000
+      internalID: 4667761633421944640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a122092789ce10800000000000000
+      internalID: 2218452901655849220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8395b121f417a30800000000000000
+      internalID: 4211234065754962106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbd2ed629cb06840800000000000000
+      internalID: 5215375705589865427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ab9cb9f19e9780800000000000000
+      internalID: -8674335330471794949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundTilemap_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5304cc34d455d40800000000000000
+      internalID: 5572445067525764545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

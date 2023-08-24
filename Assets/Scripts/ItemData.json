@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "name": "sage",
+            "displayName": "Sage",
+            "texture": "sage",
+            "type": "collectible",
+            "amount": null,
+            "stackAmount": 99,
+            "description": "A medicinal herb which can be used to craft a variety of items in combination with other herbs."
+        },
+        {
+            "name": "anthurium",
+            "displayName": "Anthurium",
+            "texture": "anthurium",
+            "type": "collectible",
+            "amount": null,
+            "stackAmount": 99,
+            "description": "A poisonous flower which can be used to craft a variety of items in combination with other herbs."
+        },
+        {
+            "name": "lavender",
+            "displayName": "Lavender",
+            "texture": "lavender",
+            "type": "collectible",
+            "amount": null,
+            "stackAmount": 99,
+            "description": "A purple flower which can be used to craft a variety of items in combination with other herbs."
+        },
+        {
+            "name": "coin",
+            "displayName": "Coin",
+            "texture": "coin",
+            "type": "collectible",
+            "amount": null,
+            "stackAmount": 99,
+            "description": "A type of currency that can be used to trade for various items."
+        },
+        {
+            "name": "oldSword",
+            "displayName": "Old Sword",
+            "texture": "oldSword",
+            "type": "sword",
+            "amount": 1,
+            "stackAmount": 1,
+            "description": "An old and worn-out sword which hasn't been used in years. Deals a mere 1 damage."
+        },
+        {
+            "name": "ironSword",
+            "displayName": "Iron Sword",
+            "texture": "ironSword",
+            "type": "sword",
+            "amount": 3,
+            "stackAmount": 1,
+            "description": "A shiny iron sword in surprisingly good condition. Deals 3 damage."
+        },
+        {
+            "name": "woodenBow",
+            "displayName": "Wooden Bow",
+            "texture": "woodenBow",
+            "type": "bow",
+            "amount": 1,
+            "stackAmount": 1,
+            "description": "A flimsy bow made from some wood. Fires arrows. Deals a mere 1 damage."
+        },
+        {
+            "name": "ironBow",
+            "displayName": "Iron Bow",
+            "texture": "ironBow",
+            "type": "bow",
+            "amount": 3,
+            "stackAmount": 1,
+            "description": "A powerful and shiny bow that is well made. Fires arrows. Deals 3 damage."
+        },
+        {
+            "name": "healthPack",
+            "displayName": "Health Pack",
+            "texture": "healthPack",
+            "type": "healing",
+            "amount": 3,
+            "stackAmount": 99,
+            "description": "A handy health pack to make sure your health doesn't go too low. Heals 3 health."
+        },
+        {
+            "name": "chest",
+            "displayName": "Chest",
+            "texture": "chest",
+            "type": "placeable",
+            "amount": null,
+            "stackAmount": 5,
+            "description": "A placeable chest to store items in."
+        },
+        {
+            "name": "anthurium.2.sage.1.lavender.1",
+            "displayName": "Recipe",
+            "texture": "blueprint",
+            "type": "blueprint",
+            "amount": null,
+            "stackAmount": 1,
+            "description": "A recipe which requires 1 sage and 1 lavender. Crafts 2 anthurium."
+        }
+    ]
+}
